@@ -1,4 +1,5 @@
 # NetflixData-Shiny-app  [**Readme 中文**](./ReadMe-Zh.md)
+![image](https://github.com/user-attachments/assets/47935305-f2c6-4e48-b62a-418fc4d21a18)
 
 This repository contains a dataset of Netflix titles and an `R` script for analyzing the data. The analysis explores various aspects of the Netflix dataset such as genres, countries of production, and release dates. The script uses R for data manipulation and visualization.
 
